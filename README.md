@@ -3,8 +3,8 @@
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Implementation of Semantic ANalysis</H1>
 
-## Name : Yamunaasri T S
-## Reg no : 212222240117
+### Name : Yamunaasri T S
+### Reg no : 212222240117
 <H3>Aim: to perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques. </H3> 
  <BR>
 <h3>Algorithm:</h3>
